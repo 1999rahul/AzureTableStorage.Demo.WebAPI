@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mve6uOMP53DkSSZjpid4RC8ZOuZ5k6+88TuuRwSASEE=",
+  "Source": "TableStorage.Demo.WebAPI",
+  "BasePath": "_content/TableStorage.Demo.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TableStorage.Demo.WebAPI.props" />
+</Project>
